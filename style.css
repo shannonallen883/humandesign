@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(180, 180, 233);
+    color: rgb(0, 0, 0);
+}
+
+#compass {
+    /* height: 150px; */
+    /* width: 150px; */
+}
+
+.fa-brands {
+    padding-left: 5px;
+    padding-right: 5px;
+}
